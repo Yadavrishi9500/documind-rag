@@ -17,14 +17,21 @@ The result is a grounded answer with **page-level citations, source previews, an
 
 > 🔒 Fully local generation — no paid LLM API key required.
 
----
-## 🎥 Demo
+--
 
-### Watch DocuMind RAG in Action
+## 🎥 Demo Video
 
-[![Watch DocuMind RAG Demo](https://lnkd.in/p/gQq-AJts)
+Watch DocuMind RAG in action:
 
----
+▶️ [Watch the Demo Video](https://lnkd.in/p/gQq-AJts)
+
+The demo shows:
+- PDF upload and indexing
+- semantic retrieval
+- local Llama 3.2 generation through Ollama
+- grounded answers with page-level citations
+  
+--
 
 ## ✨ Key Features
 
