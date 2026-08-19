@@ -18,14 +18,13 @@ The result is a grounded answer with **page-level citations, source previews, an
 > 🔒 Fully local generation — no paid LLM API key required.
 
 ---
-
 ## 🎥 Demo
 
 ### Watch DocuMind RAG in Action
 
-[![Watch DocuMind RAG Demo](docs/screenshots/home.png)](YOUR_DEMO_VIDEO_LINK)
+[![Watch DocuMind RAG Demo](docs/screenshots/home.png)](https://lnkd.in/p/gQq-AJts)
 
-▶️ **Click the image above to watch the demo**
+▶️ **Click the image above to watch the demo video**
 
 ### Grounded Answer with Retrieved Sources
 
