@@ -22,13 +22,7 @@ The result is a grounded answer with **page-level citations, source previews, an
 
 ### Watch DocuMind RAG in Action
 
-[![Watch DocuMind RAG Demo](docs/screenshots/home.png)](https://lnkd.in/p/gQq-AJts)
-
-▶️ **Click the image above to watch the demo video**
-
-### Grounded Answer with Retrieved Sources
-
-![DocuMind RAG Answer](docs/screenshots/answer.png)
+[![Watch DocuMind RAG Demo](https://lnkd.in/p/gQq-AJts)
 
 ---
 
